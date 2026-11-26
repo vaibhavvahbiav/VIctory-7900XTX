@@ -25,7 +25,6 @@ or publisher.
 Tested on one machine only: Windows 11, Intel i9-12900K, 64 GB RAM, Radeon
 RX 7900 XTX, ray tracing off.
 
-| | |
 |---|---|
 | City street, Series S profile, renderer patches 1, 2, 5, 6 and 7 on | about 45 ms a frame (about 22 fps, 44.9 ms in run merge-5) |
 | Same, patches 1, 2, 5 and 6 | 45.6 ms, p95 47 ms |
