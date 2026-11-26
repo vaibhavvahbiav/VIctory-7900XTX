@@ -103,6 +103,16 @@ target\diag\victory.exe warm --used                     # pipelines earlier runs
 Commands, debugging switches and upstream's own description:
 [docs/README-fxceless.md](docs/README-fxceless.md). Every `VICTORY_...` switch is
 described in a comment where it is read.
+---
+
+### 2. Link `CONTRIBUTING.md` in the main `README.md`
+
+In the root `README.md` under your **Build** or **Development** section, add a one-line pointer so contributors do not miss the hook installation or test commands:
+
+```markdown
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for git hook setup (`cargo xtask install-hooks`), required test commands, and asset policy rules.
 
 ## What is different here
 
